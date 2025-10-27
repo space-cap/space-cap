@@ -1,117 +1,67 @@
-<!-- 🌌 GitHub Profile README for space-cap -->
+# 👋 Hi, I'm LEE YOUNGHYUN (space-cap)
 
-<div align="center">
-
-# 👋 안녕하세요!  
-## 저는 **이영현 (space-cap)** 입니다 👨‍💻  
-AI, Web, Game 개발을 사랑하는 **지속 성장형 개발자**입니다.
-
-🎯 *"배운 것을 기록하고, 기록한 것을 나누며 성장합니다."*
+> 🚀 Developer focused on **AI automation, finance systems, and backend engineering**
 
 ---
 
-<!-- 헤더 애니메이션 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=200&section=header&text=Welcome%20to%20space-cap's%20Galaxy🚀&fontSize=28&fontAlignY=38&fontColor=ffffff)
-
-</div>
-
----
-
-## 🧠 About Me  
-
-- 🎮 **게임 서버 & 웹 서비스 개발자**
-- 🧩 **AI, 챗봇, 투자 분석** 프로젝트에 집중
-- 🌱 학습을 기록하고 공유하는 개발자
-- 🧠 Kotlin · Python · C# · Java 중심으로 스터디 진행 중
+### 🧠 About Me
+- 💼 Former game server engineer (C++, C#, Python)
+- 📊 Currently exploring **AI + Stock Trading Automation**
+- 🧩 Interested in **LangChain, OpenAI API, and Data Engineering**
+- 🌱 Building intelligent services that connect **people, memory, and markets**
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Tech Stack
+**Languages:**  
+`Python` `Java` `C#` `C++` `Kotlin`
 
-<div align="center">
+**Frameworks / Tools:**  
+`Spring Boot` `FastAPI` `LangChain` `OpenAI API`  
+`MySQL` `MongoDB` `Redis` `Docker`
 
-| 분야 | 기술 |
-|------|------|
-| **Language** | Kotlin · Python · Java · JavaScript · TypeScript · C# |
-| **Framework** | Spring Boot · React · Unity |
-| **DevOps / Tools** | Git · GitHub Actions · Docker · Redis |
-| **DB / Storage** | MySQL · MongoDB |
-
-</div>
+**Investment APIs:**  
+`Korea Investment OpenAPI` `WebSocket / REST Trading Bots`
 
 ---
 
-## 🚀 주요 프로젝트
+### 📚 Featured Projects
 
-| 이름 | 설명 | 기술스택 |
-|------|------|-----------|
-| [💬 chatgpt-investment-analyst](https://github.com/space-cap/chatgpt-investment-analyst) | ChatGPT 기반 **투자 분석 자동화 봇** | Python, OpenAI API |
-| [🧠 ai-career-6months](https://github.com/space-cap/ai-career-6months) | 6개월간의 AI 커리어 학습 기록 | Python, Jupyter |
-| [🌐 landing-website](https://github.com/space-cap/landing-website) | 포트폴리오용 랜딩 웹사이트 | HTML, CSS, JS |
-| [📝 kotlin-study-blog](https://github.com/space-cap/kotlin-study-blog) | Kotlin 언어 학습 정리 | Kotlin |
-| [🎮 Unity-study-blog](https://github.com/space-cap/Unity-study-blog) | Unity 엔진 기반 게임 개발 실습 | C#, Unity |
+#### 🧩 AI Finance / Trading
+- **[kis-auto-trader](https://github.com/space-cap/kis-auto-trader)**  
+  한국투자증권 OpenAPI 기반의 자동매매 시스템 (REST + WebSocket)
+  - 종목 Pool 관리, 슬리피지 제어, 실시간 체결 로직 포함
+  - LangChain 기반 뉴스 요약과 시그널 생성 연동
 
----
+- **[LangChain-Finance-Chatbot](https://github.com/space-cap/langchain-finance-chatbot)**  
+  Chroma + MySQL 기반의 청년정책/금융 챗봇  
+  - 문서 벡터스토어, 툴/에이전트 설계, 자연어 질의 대응
 
-## 🏆 GitHub Trophy
+#### 🧠 AI & Data
+- **[memory-garden](https://github.com/space-cap/memory-garden)**  
+  “기억정원” — 노인 외로움과 죽음을 주제로 한 감성 데이터 프로젝트  
+  - 감정 분류, 텍스트 임베딩, 감정 기록 시각화
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=space-cap&theme=gruvbox&no-frame=true&no-bg=true&column=6)
-
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=space-cap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space-cap&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=space-cap&theme=tokyonight&hide_border=true)
-
-</div>
+#### ☁️ Backend & Infra
+- **[mini-spring-di-container](https://github.com/space-cap/mini-spring-di-container)**  
+  Guava + Annotation 기반의 경량 DI 컨테이너 구현  
+  - `@MyComponent` 스캔 / 자동 빈 등록 / 의존성 주입 기능 포함
 
 ---
 
-## ⏰ 개발 활동 (자동 업데이트)
-
-<div align="center">
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=space_cap&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> ⏳ *매일 GitHub Actions로 자동 갱신됩니다.*
+### 🧩 Currently Learning
+- LangGraph / RAG Pipeline Optimization  
+- AI Agentic Workflow Design  
+- Quantitative Backtesting with Python  
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-📧 **mobilenjoy@naver.com**  
-🌐 [https://yourwebsite.com](https://yourwebsite.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-
-</div>
+### 📫 Contact
+- 📧 Email: **mobilenjoy@naver.com**  
+- 💬 Blog: [Coming soon…]  
+- 🪐 GitHub: [space-cap](https://github.com/space-cap)
 
 ---
 
-## 🌈 앞으로의 목표
+> _“코드로 세상을 이해하고, 데이터를 통해 세상을 설명합니다.”_
 
-- 🤖 AI 기반 **투자 분석 / 챗봇 서비스** 고도화  
-- 🕹 Unity 기반 **게임 서버 및 컨텐츠 개발** 확장  
-- 🌍 풀스택 개발자로서 **웹·백엔드 융합 프로젝트** 강화  
-- 📚 기술 블로그 및 오픈소스 기여  
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=footer&text=Thanks%20for%20Visiting!%20🌙&fontSize=20&fontAlignY=65&fontColor=ffffff)
-
-⭐️ _“작은 개선을 꾸준히 반복하면, 어느새 큰 성장으로 이어진다.”_ ⭐️  
-
-</div>
